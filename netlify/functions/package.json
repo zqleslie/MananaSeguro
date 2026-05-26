@@ -1,0 +1,12 @@
+{
+  "name": "manana-seguro-functions",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:functions": "vitest run",
+    "test:functions:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.1.0"
+  }
+}
